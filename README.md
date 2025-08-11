@@ -49,10 +49,10 @@ currency_converter/
 
 1.  **Clone this repo:**
     
-'''bash
+
 git clone https://github.com/surajpsk12/CurrencyConverter-Flutter.git 
-    cd currency_converter
-'''
+
+cd currency_converter
 
 
 
